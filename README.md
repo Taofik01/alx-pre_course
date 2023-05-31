@@ -1,1 +1,1 @@
-My second readme
+read me for creating directories and also to create file

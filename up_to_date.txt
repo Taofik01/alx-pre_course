@@ -1,11 +1,1 @@
-the command line used is:
-sudo apt install nano
-mkdir up_to_date.txt specifying that the file is just for text
-nano up_to_date.txt
-ctrl + o
-ctrl + x
-Yes
-git add .
-git commit -m "How to be up to date in git"
-git push
-
+mkdir up_to_date.txt
